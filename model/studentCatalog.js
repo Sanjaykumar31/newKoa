@@ -32,4 +32,4 @@ const studentCatalog = new mongoose.Schema(
   }
 )
 
-module.exports = mongoose.model('studentcatalog', studentCatalog)
+module.exports = mongoose.model('studentfile', studentCatalog)
